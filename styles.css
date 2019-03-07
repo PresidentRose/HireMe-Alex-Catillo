@@ -1,0 +1,35 @@
+h1 {
+    color:crimson;
+     font-family: 'Niramit', sans-serif;
+}
+h2{
+    color:silver;
+    font-family: 'Charmonman', cursive;
+}
+h3 {
+    color:firebrick;
+    
+}
+body{
+    background-color:goldenrod;
+    background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SN1994D.jpg/260px-SN1994D.jpg);
+    text-align:center;
+}
+
+ul{
+    color:white;
+    font-family: 'Playfair Display', serif;
+    
+    
+}
+
+img{
+    width:250px;
+    float:right;
+}
+#blue{
+    width:400px;
+}
+
+
+
